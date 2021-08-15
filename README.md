@@ -18,8 +18,10 @@ Data Source: Amazon Review datasets, PC Review dataset
 
 __Total number of reviews__
 
-# 4,291 vine reviews in our dataset, and 40,471 non-vine reviews in the complete dataset
 ![1](https://user-images.githubusercontent.com/82621077/129494310-c7beed43-9ed6-48d0-a042-32ee68cee429.png)
+
+__4,291 vine reviews in our dataset, and 40,471 non-vine reviews in the complete dataset__
+
 
 
 
