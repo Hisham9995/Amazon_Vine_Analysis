@@ -67,7 +67,7 @@ ________________________________________________________________________
 
 
 ![Per](https://user-images.githubusercontent.com/82621077/129494293-099bc7bf-aff5-45a4-8e6c-89faabdc2f7d.png)
-![1](https://user-images.githubusercontent.com/82621077/129494309-57d32b88-0c7e-44f5-ad16-579fb16fb7e0.png)
+
 
 
  38.9% of the five_star reviews were non-vine
