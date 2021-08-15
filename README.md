@@ -14,9 +14,9 @@ This project is about analyzing the Amazon Vine program and determining If there
 I did use PySpark to perform the ETL process 
 
 
-1 .To extract the dataset, 
-2. Transform the data, connect to an AWS RDS instance, and 
-3.Transformed data into Pgadmin also calculate different metrics
+1.  To extract the dataset, 
+2.  Transform the data, connect to an AWS RDS instance, and 
+3.  Transformed data into Pgadmin also calculate different metrics
 
 
 The goal of this Analysis is to determine If there is a bias review from Vine members Focused on the US reviews for PC
