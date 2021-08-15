@@ -42,7 +42,7 @@ _______________________________
 
 ![1](https://user-images.githubusercontent.com/82621077/129494310-c7beed43-9ed6-48d0-a042-32ee68cee429.png)
 
-__4,291 vine reviews in our dataset, and 40,471 non-vine reviews in the complete dataset__
+4,291 vine reviews in our dataset, and 40,471 non-vine reviews in the complete dataset
 
 
 
@@ -55,8 +55,8 @@ _______________________________________________________________
 
 ![Total Views](https://user-images.githubusercontent.com/82621077/129494143-afd019cd-32da-4253-9b7d-4f84a57a5ab6.png)
 
- # 15,663 of the 5-star reviews were non-vine
- # Total of 15711 5-star reviews
+ 15,663 of the 5-star reviews were non-vine
+ Total of 15711 5-star reviews
 
 _______________________________________________________________________
 __Percentage Vine reviews were 5 stars/ non-Vine reviews were 5 stars__
@@ -70,8 +70,8 @@ ________________________________________________________________________
 ![1](https://user-images.githubusercontent.com/82621077/129494309-57d32b88-0c7e-44f5-ad16-579fb16fb7e0.png)
 
 
-# 38.9% of the five_star reviews were non-vine
-# 38.2% of the five_star reviews were vine
+ 38.9% of the five_star reviews were non-vine
+ 38.2% of the five_star reviews were vine
 
 _________
 # Summary
