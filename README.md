@@ -26,8 +26,10 @@ ____________
 # Resources 
 ____________
 
-Software: Google Colab Notebook, PostgreSQL 12.7, pgAdmin 4, AWS
-Data Source: Amazon Review datasets, PC Review dataset
+Software: Google Colab Notebook, PostgreSQL 12.7, pgAdmin 4 
+
+
+AWS Data Source: Amazon Review datasets, PC Review dataset
 _____________
 # Results :
 ______________
